@@ -9,7 +9,7 @@ Period: 2023/1 (year 2023)
 Professor: Eduaro Luzeiro Feitosa
 
 ## Summary 
-Paradigms for building programs. Structured programming. Jackson's method. Object-Oriented Programming (OOP). Methods and languages for OOP.
+Introduction to Operating Systems and basic concepts. Process management. Memory Memory. Input and Output. File Systems. Virtualization. Operating systems for mobile devices. Case studies.
 
 ## Objective
 Define an Operating System. Understand how an Operating System works. Identify the main functions of an Operating System. Understand concepts of multiprogramming, paging and virtual memory. Implement the main concepts of Operating Systems.
